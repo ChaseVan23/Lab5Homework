@@ -28,7 +28,7 @@ public class SumOfNumbers {
         
         //Start the loop to calculate the sum
         for (i = 1; i <= userNumber; i++) {
-            sum = sum + i;
+            sum = sum + i; 
         }
         
         //Display the sum
