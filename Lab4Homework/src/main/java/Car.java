@@ -1,6 +1,6 @@
 import java.io.*;
 
-
+ 
 public class Car {
     
     private int yearModel;
